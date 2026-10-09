@@ -1,0 +1,17 @@
+{
+  "name": "ppt-agent-v7",
+  "version": "7.3.0",
+  "private": true,
+  "description": "Shared visual direction with native editable PPTX and offline HTML delivery",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "pptxgenjs": "4.0.1",
+    "sharp": "0.35.4"
+  },
+  "optionalDependencies": {
+    "playwright": "1.62.1"
+  }
+}
