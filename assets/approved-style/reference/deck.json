@@ -1,0 +1,85 @@
+{
+  "title": "项目试点 · 视觉基准",
+  "brand": "工作简报",
+  "audience": "项目负责人",
+  "goal": "展示同一视觉方向的两种原生交付",
+  "deliverables": [
+    "pptx",
+    "html"
+  ],
+  "style_profile": "approved-editorial",
+  "slides": [
+    {
+      "id": "opening",
+      "title": "把一个想法，做成可靠方案",
+      "claim": "把一个想法，做成可靠方案",
+      "html": "html/opening.html",
+      "svg": "svg/opening.svg",
+      "classes": "cover blue",
+      "notes": "虚构演示项目，仅用于展示视觉语言。阶段、文案和条件均为示例，不代表用户或任何公司事实。",
+      "sources": [],
+      "footnote": "虚构演示项目 · 内容与时间仅作示例",
+      "depends_on": []
+    },
+    {
+      "id": "timeline",
+      "title": "六周，证据逐步完整",
+      "claim": "六周，证据逐步完整",
+      "html": "html/timeline.html",
+      "svg": "svg/timeline.svg",
+      "classes": "roadmap",
+      "notes": "虚构演示项目，仅用于展示视觉语言。阶段、文案和条件均为示例，不代表用户或任何公司事实。",
+      "sources": [],
+      "footnote": "虚构演示项目 · 内容与时间仅作示例",
+      "depends_on": []
+    },
+    {
+      "id": "agreement",
+      "title": "先把验收的标准写下来",
+      "claim": "先把验收的标准写下来",
+      "html": "html/agreement.html",
+      "svg": "svg/agreement.svg",
+      "classes": "agreement",
+      "notes": "虚构演示项目，仅用于展示视觉语言。阶段、文案和条件均为示例，不代表用户或任何公司事实。",
+      "sources": [],
+      "footnote": "虚构演示项目 · 内容与时间仅作示例",
+      "depends_on": []
+    },
+    {
+      "id": "decision",
+      "title": "一页简报，让决定有据可依",
+      "claim": "一页简报，让决定有据可依",
+      "html": "html/decision.html",
+      "svg": "svg/decision.svg",
+      "classes": "memo",
+      "notes": "虚构演示项目，仅用于展示视觉语言。阶段、文案和条件均为示例，不代表用户或任何公司事实。",
+      "sources": [],
+      "footnote": "虚构演示项目 · 内容与时间仅作示例",
+      "depends_on": []
+    },
+    {
+      "id": "update",
+      "title": "让进展，看得见",
+      "claim": "让进展，看得见",
+      "html": "html/update.html",
+      "svg": "svg/update.svg",
+      "classes": "weekly",
+      "notes": "虚构演示项目，仅用于展示视觉语言。阶段、文案和条件均为示例，不代表用户或任何公司事实。",
+      "sources": [],
+      "footnote": "虚构演示项目 · 内容与时间仅作示例",
+      "depends_on": []
+    },
+    {
+      "id": "close",
+      "title": "下一轮投入，需要什么证据",
+      "claim": "下一轮投入，需要什么证据",
+      "html": "html/close.html",
+      "svg": "svg/close.svg",
+      "classes": "closing lime",
+      "notes": "虚构演示项目，仅用于展示视觉语言。阶段、文案和条件均为示例，不代表用户或任何公司事实。",
+      "sources": [],
+      "footnote": "虚构演示项目 · 内容与时间仅作示例",
+      "depends_on": []
+    }
+  ]
+}
