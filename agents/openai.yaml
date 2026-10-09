@@ -1,0 +1,13 @@
+interface:
+  display_name: PPT Agent v7
+  short_description: 延续已认可审美，默认交付原生可编辑PPT，明确要求时交付HTML演示
+  default_prompt: 用 $ppt-agent-v7 按已认可视觉基准设计演示；默认交付可编辑PPTX和SVG，明确要求HTML时交付HTML。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
